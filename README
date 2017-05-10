@@ -9,3 +9,5 @@ run twitter_streaming.py then output the result to search.txt
     e.g. python twitter_streaming.py > search.txt (for window)
 run process.py output the result to output.txt
     e.g. python python.py > output.txt (for window)
+
+In twitter_streaming.py there is a parameter for "track", the key for now is "Google"
