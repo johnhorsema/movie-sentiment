@@ -1,0 +1,5 @@
+Install Stanford CoreNLP
+Install pycorenlp through pip
+
+Run the Stanford CoreNLP server with Java first
+Then run server.py
